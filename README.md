@@ -4,7 +4,7 @@ Hi I am `rscodes`, a web3 security researcher competing in public contests. I al
 
 I came from a background of solving computational algorithmic problems💻, which were often mathematically heavy as well. My background in complex algorithms allowed me to approach complex codebases like a puzzle and with that I was able to find multiple solo Highs and Medium vulnerabilities in public contests.
 
-Competing in audit contests and securing codebases before mainnet launch, I have a track record of (3x)🏆1st places and (1x)🥈2nd place 🙃
+Competing in public blockchain contests, I have a portfolio of (3x)🏆1st places and (1x)🥈2nd place wins 🙃
   * Proficient in Solidity/EVM
   * Proficient in Rust Smart Contracts
 
@@ -39,8 +39,8 @@ Competing in audit contests and securing codebases before mainnet launch, I have
 |:-------:|:--------:|:--------:|:------:|
 | Optimism | Immunefi | _Private_ | _Private_ |
 
-## Audit Findings
-I collated some of my vulnerability findings :)
+## Public Audit Contest Findings
+I collated some of my public contributions, feel free to use.
 
 | Project | Findings |
 |:-------:|:--------:|
