@@ -22,17 +22,30 @@ Competing in public blockchain contests, I have a portfolio of (3x)🏆1st place
 | **Phi** | Code4rena | `GameFi`, `NFTs` | <h5>4H, 3M</h5> | [8th](https://code4rena.com/audits/2024-08-phi) |
 
 ## Private Engagements
+
+#### Spearbit
+| Client Name | Worked With | Date | Report |
+|:-----------:|:-----------:|:----:|:------:|
+| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Still Private_ |
+| Melio Protocol | **Spearbit** | April 2025 | [Report->2 cool crits ;)](https://cantina.xyz/portfolio/ef289ecf-cf69-472d-9d98-572bbaeec30d) |
+| Y0.xyz | **Spearbit** | May 2025 | _Still Private_ |
+| Eliza Labs OTC EVM | **Spearbit** | October 2025 | _Still Private_ |
+| Monad Distribution Escrow | **Spearbit** | October 2025 | [Report link](https://cantina.xyz/portfolio/749c4d66-7c6f-40d7-b94a-713e97acfedc) |
+| Tenbin Labs | **Spearbit** | Jan 2026 | _Still Private_ |
+| Chronicle Labs | **Spearbit** | Jan 2026 | _Still Private_ |
+
+#### Zenith
 | Client Name | Worked With | Date | Report |
 |:-----------:|:-----------:|:----:|:------:|
 | Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Legion%20-%20Zenith%20Audit%20Report.pdf) |
 | Parrarel Protocol | **Zenith** | Feb 2025 | _Still Private_ |
-| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Still Private_ |
-| Melio Protocol | **Spearbit** | April 2025 | [Report->2 cool crits ;)](https://cantina.xyz/portfolio/ef289ecf-cf69-472d-9d98-572bbaeec30d) |
-| Y0.xyz | **Spearbit** | May 2025 | _Still Private_ |
 | Lindy Labs | **Zenith** | June 2025 | _Still Private_ |
 | Swell Network | **Zenith** | July 2025 | _Still Private_ |
 | Nucleus | **Zenith** | July 2025 | _Still Private_ |
 | Morpheus | **Zenith** | July 2025 | _Still Private_ |
+| Liminal | **Zenith** | October 2025 | _Still Private_ |
+| Valantis | **Zenith** | October 2025 | _Still Private_ |
+| Treasures | **Zenith** | November 2025 | _Still Private_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
