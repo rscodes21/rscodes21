@@ -28,7 +28,7 @@ Competing in public blockchain contests, I have a portfolio of (3x)🏆1st place
 |:-----------:|:-----------:|:----:|:------:|
 | Coinbase Commerce V1 | **Spearbit** | April 2025 | _Still Private_ |
 | Melio Protocol | **Spearbit** | April 2025 | [Report->2 cool crits ;)](https://cantina.xyz/portfolio/ef289ecf-cf69-472d-9d98-572bbaeec30d) |
-| Y0.xyz | **Spearbit** | May 2025 | _Still Private_ |
+| Y0.xyz | **Spearbit** | May 2025 | [Report link](https://github.com/yoprotocol/core/blob/main/audits/Yo-Protocol-Spearbit-Security-Review.pdf) |
 | Eliza Labs OTC EVM | **Spearbit** | October 2025 | _Still Private_ |
 | Monad Distribution Escrow | **Spearbit** | October 2025 | [Report link](https://cantina.xyz/portfolio/749c4d66-7c6f-40d7-b94a-713e97acfedc) |
 | Tenbin Labs | **Spearbit** | Jan 2026 | _Still Private_ |
