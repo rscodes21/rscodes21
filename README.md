@@ -39,11 +39,11 @@ Competing in public blockchain contests, I have a portfolio of (3x)🏆1st place
 |:-----------:|:-----------:|:----:|:------:|
 | Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Legion%20-%20Zenith%20Audit%20Report.pdf) |
 | Parrarel Protocol | **Zenith** | Feb 2025 | _Still Private_ |
-| Lindy Labs | **Zenith** | June 2025 | _Still Private_ |
+| Lindy Labs | **Zenith** | June 2025 | [Report](https://github.com/zenith-security/reports/blob/main/reports/Lindy%20-%20Zenith%20Audit%20Report.pdf) |
 | Swell Network | **Zenith** | July 2025 | _Still Private_ |
 | Nucleus | **Zenith** | July 2025 | _Still Private_ |
-| Morpheus | **Zenith** | July 2025 | _Still Private_ |
-| Liminal | **Zenith** | October 2025 | _Still Private_ |
+| Morpheus | **Zenith** | July 2025 | [Report](https://github.com/zenith-security/reports/blob/main/reports/Morpheus%20-%20Zenith%20Audit%20Report.pdf) |
+| Lmnal (Liminal Contracts) | **Zenith** | October 2025 | [Report](https://github.com/Lmnal/liminal-contracts) |
 | Valantis | **Zenith** | October 2025 | _Still Private_ |
 | Treasures | **Zenith** | November 2025 | _Still Private_ |
 
